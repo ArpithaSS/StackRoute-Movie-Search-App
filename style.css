@@ -1,0 +1,49 @@
+.search-section {
+    position: absolute;
+    top: 20px;
+    left: 20%;
+    right: 20%;
+}
+
+.movie-info-section {
+    position: absolute;
+    top: 100px;
+    left: 10%;
+    right: 10%;
+    /* border: 1px solid black; */
+}
+
+.movie-poster{
+    width: 30rem;
+    height: 30rem;
+}
+
+.search-bar {
+    width: 25rem;
+    height: 2rem;
+    background-color:  rgb(225, 245, 245);
+    border: 1px solid rgb(3, 198, 198);
+    border-radius: 5px;
+    /* border: 1px solid aqua; */
+}
+
+.search-button{ 
+    width: 10rem;
+
+}
+
+.movies {
+    border: 1px solid rgb(17, 213, 210);
+}
+
+.poster-section {
+    padding-left: 0 !important;
+}
+
+.info-section, .poster-section {
+    background-color: rgb(225, 245, 245);
+}
+
+.dummy-div {
+    border: 1px solid red;
+}
